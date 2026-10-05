@@ -1,0 +1,9 @@
+# Optional extras. The app runs without them and switches each feature on
+# automatically when its package is installed.
+
+# JavaScript-rendered pages. After installing, also run:  playwright install chromium
+playwright==1.56.0
+
+# OCR for scanned PDFs. Also needs the Tesseract program on PATH:
+# https://github.com/tesseract-ocr/tesseract
+pytesseract==0.3.13

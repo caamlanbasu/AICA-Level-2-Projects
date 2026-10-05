@@ -1,0 +1,1460 @@
+('F:\\Amlan\\AICA Level 2\\Capstone '
+ 'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\dist\\PDF Sourcing '
+ 'Tool.exe',
+ False,
+ False,
+ False,
+ 'F:\\Amlan\\AICA Level 2\\Capstone '
+ 'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'F:\\Amlan\\AICA Level 2\\Capstone '
+ 'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+ 'Tool\\PDF Sourcing Tool.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+   'Tool\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+   'Tool\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+   'Tool\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+   'Tool\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+   'Tool\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+   'Tool\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('main',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\main.py',
+   'PYSOURCE'),
+  ('pypdfium2_raw\\pdfium.dll',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2_raw\\pdfium.dll',
+   'BINARY'),
+  ('python314.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\python314.dll',
+   'BINARY'),
+  ('_zstd.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PIL\\_webp.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PIL\\_avif.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PIL\\_imagingft.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_tkinter.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('pymupdf\\_mupdf.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pymupdf\\_mupdf.pyd',
+   'EXTENSION'),
+  ('pymupdf\\_extra.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pymupdf\\_extra.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\_cffi_backend.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\cd.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\charset_normalizer\\cd.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\charset_normalizer\\md.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\etree.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\etree.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\_elementpath.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\_elementpath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\sax.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\sax.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\objectify.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\objectify.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\diff.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\html\\diff.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\_difflib.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\html\\_difflib.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\builder.cp314-win_amd64.pyd',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\builder.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
+  ('tcl90.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\tcl90.dll',
+   'BINARY'),
+  ('libtommath.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libtommath.dll',
+   'BINARY'),
+  ('pymupdf\\mupdfcpp64.dll',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pymupdf\\mupdfcpp64.dll',
+   'BINARY'),
+  ('MSVCP140.dll', 'C:\\WINDOWS\\system32\\MSVCP140.dll', 'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\python3.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\zlib1.dll',
+   'BINARY'),
+  ('certifi\\cacert.pem',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('customtkinter-5.2.2.dist-info\\INSTALLER',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter-5.2.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('customtkinter-5.2.2.dist-info\\LICENSE',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter-5.2.2.dist-info\\LICENSE',
+   'DATA'),
+  ('customtkinter-5.2.2.dist-info\\METADATA',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter-5.2.2.dist-info\\METADATA',
+   'DATA'),
+  ('customtkinter-5.2.2.dist-info\\RECORD',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter-5.2.2.dist-info\\RECORD',
+   'DATA'),
+  ('customtkinter-5.2.2.dist-info\\REQUESTED',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter-5.2.2.dist-info\\REQUESTED',
+   'DATA'),
+  ('customtkinter-5.2.2.dist-info\\WHEEL',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter-5.2.2.dist-info\\WHEEL',
+   'DATA'),
+  ('customtkinter-5.2.2.dist-info\\top_level.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter-5.2.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('customtkinter\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\__init__.py',
+   'DATA'),
+  ('customtkinter\\assets\\.DS_Store',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\.DS_Store',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\CustomTkinter_shapes_font.otf',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\CustomTkinter_shapes_font.otf',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\Roboto\\Roboto-Medium.ttf',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Medium.ttf',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\Roboto\\Roboto-Regular.ttf',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Regular.ttf',
+   'DATA'),
+  ('customtkinter\\assets\\icons\\.DS_Store',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\icons\\.DS_Store',
+   'DATA'),
+  ('customtkinter\\assets\\icons\\CustomTkinter_icon_Windows.ico',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\icons\\CustomTkinter_icon_Windows.ico',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\blue.json',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\blue.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\dark-blue.json',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\dark-blue.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\green.json',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\green.json',
+   'DATA'),
+  ('customtkinter\\windows\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\ctk_input_dialog.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_input_dialog.py',
+   'DATA'),
+  ('customtkinter\\windows\\ctk_tk.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_tk.py',
+   'DATA'),
+  ('customtkinter\\windows\\ctk_toplevel.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\ctk_toplevel.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\appearance_mode\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_base_class.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_base_class.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_tracker.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_tracker.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_rendering\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_rendering\\ctk_canvas.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\ctk_canvas.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_rendering\\draw_engine.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\draw_engine.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_widget_classes\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_widget_classes\\ctk_base_class.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\ctk_base_class.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\core_widget_classes\\dropdown_menu.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\dropdown_menu.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_button.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_button.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_checkbox.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_checkbox.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_combobox.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_combobox.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_entry.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_entry.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_frame.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_frame.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_label.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_label.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_optionmenu.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_optionmenu.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_progressbar.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_progressbar.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_radiobutton.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_radiobutton.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_scrollable_frame.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollable_frame.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_scrollbar.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollbar.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_segmented_button.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_segmented_button.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_slider.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_slider.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_switch.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_switch.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_tabview.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_tabview.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\ctk_textbox.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_textbox.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\font\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\font\\ctk_font.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\ctk_font.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\font\\font_manager.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\font_manager.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\image\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\image\\ctk_image.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\ctk_image.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\scaling\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\scaling\\scaling_base_class.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_base_class.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\scaling\\scaling_tracker.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_tracker.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\theme\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\theme\\theme_manager.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\theme_manager.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\utility\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\__init__.py',
+   'DATA'),
+  ('customtkinter\\windows\\widgets\\utility\\utility_functions.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\utility_functions.py',
+   'DATA'),
+  ('pdfminer\\cmap\\78-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78ms-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78ms-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78ms-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78ms-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\83pv-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\83pv-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\83pv-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\83pv-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90ms-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90ms-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90ms-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90ms-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90msp-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90msp-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90msp-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90msp-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90pv-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90pv-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90pv-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90pv-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5pc-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5pc-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5pc-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5pc-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS1-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS1-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS1-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS1-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS2-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS2-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETHK-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETHK-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETHK-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETHK-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETen-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETen-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETen-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETen-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETenms-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETenms-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETenms-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETenms-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK2K-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK2K-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK2K-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK2K-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBKp-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBKp-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBKp-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBKp-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBTpc-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBTpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBTpc-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBTpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBpc-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBpc-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdla-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdla-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdla-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdla-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdlb-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdlb-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdlb-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdlb-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKgccs-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKgccs-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKgccs-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKgccs-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm314-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm314-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm314-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm314-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm471-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm471-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm471-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm471-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKscs-B5-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKscs-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKscs-B5-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKscs-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hankaku-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hankaku-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hankaku-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hankaku-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hiragana-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hiragana-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hiragana-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hiragana-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-Johab-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-Johab-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-Johab-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-Johab-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-HW-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-HW-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-HW-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-HW-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCpc-EUC-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCpc-EUC-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Katakana-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Katakana-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Katakana-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Katakana-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\NWP-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\NWP-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\NWP-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\NWP-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\README.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\README.txt',
+   'DATA'),
+  ('pdfminer\\cmap\\RKSJ-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\RKSJ-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Roman-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Roman-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Roman-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Roman-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UCS2-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UCS2-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF16-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF16-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF32-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF32-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF8-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF8-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UCS2-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UCS2-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF16-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF16-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF32-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF32-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF8-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF8-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-HW-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-HW-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-HW-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-HW-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF16-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF16-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF32-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF32-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF8-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF8-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF16-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF16-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF32-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF32-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF8-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF8-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX0213-UTF32-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX0213-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX0213-UTF32-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX0213-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX02132004-UTF32-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX02132004-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX02132004-UTF32-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX02132004-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UCS2-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UCS2-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF16-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF16-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF32-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF32-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF8-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF8-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\WP-Symbol-H.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\WP-Symbol-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\WP-Symbol-V.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\WP-Symbol-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-CNS1.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-CNS1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-GB1.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-GB1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-Japan1.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-Japan1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-Korea1.json.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-Korea1.json.gz',
+   'DATA'),
+  ('pdfminer\\py.typed',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer\\py.typed',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\INSTALLER',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\METADATA',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\METADATA',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\RECORD',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\RECORD',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\WHEEL',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\WHEEL',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\entry_points.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\LICENSES\\Apache-2.0.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\LICENSES\\Apache-2.0.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\LICENSES\\BSD-3-Clause.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\LICENSES\\BSD-3-Clause.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\LICENSES\\CC-BY-4.0.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\LICENSES\\CC-BY-4.0.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\abseil.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\abseil.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\agg23.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\agg23.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\fast_float.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\fast_float.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\freetype.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\freetype.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\icu.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\icu.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\lcms.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\lcms.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libjpeg_turbo.ijg',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libjpeg_turbo.ijg',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libjpeg_turbo.md',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libjpeg_turbo.md',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libopenjpeg.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libopenjpeg.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libpng.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libpng.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libtiff.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\libtiff.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\llvm-libc.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\llvm-libc.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\pdfium-binaries.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\pdfium-binaries.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\pdfium.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\pdfium.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\simdutf.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\simdutf.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\zlib.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\licenses\\data\\windows_x64\\BUILD_LICENSES\\zlib.txt',
+   'DATA'),
+  ('pypdfium2-5.13.0.dist-info\\top_level.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2-5.13.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('pypdfium2\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\__init__.py',
+   'DATA'),
+  ('pypdfium2\\__main__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\__main__.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\__init__.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\attachment.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\attachment.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\bitmap.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\bitmap.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\document.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\document.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\matrix.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\matrix.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\misc.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\misc.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\page.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\page.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\pageobjects.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\pageobjects.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\sysfontinfo.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\sysfontinfo.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\textpage.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\textpage.py',
+   'DATA'),
+  ('pypdfium2\\_helpers\\unsupported.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_helpers\\unsupported.py',
+   'DATA'),
+  ('pypdfium2\\_lazy.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_lazy.py',
+   'DATA'),
+  ('pypdfium2\\_library_scope.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\_library_scope.py',
+   'DATA'),
+  ('pypdfium2\\internal\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\internal\\__init__.py',
+   'DATA'),
+  ('pypdfium2\\internal\\bases.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\internal\\bases.py',
+   'DATA'),
+  ('pypdfium2\\internal\\consts.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\internal\\consts.py',
+   'DATA'),
+  ('pypdfium2\\internal\\utils.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\internal\\utils.py',
+   'DATA'),
+  ('pypdfium2\\raw.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\raw.py',
+   'DATA'),
+  ('pypdfium2\\version.json',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\version.json',
+   'DATA'),
+  ('pypdfium2\\version.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2\\version.py',
+   'DATA'),
+  ('pypdfium2_raw\\__init__.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2_raw\\__init__.py',
+   'DATA'),
+  ('pypdfium2_raw\\bindings.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2_raw\\bindings.py',
+   'DATA'),
+  ('pypdfium2_raw\\version.json',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2_raw\\version.json',
+   'DATA'),
+  ('pypdfium2_raw\\version.py',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pypdfium2_raw\\version.py',
+   'DATA'),
+  ('tldextract\\.tld_set_snapshot',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\tldextract\\.tld_set_snapshot',
+   'DATA'),
+  ('tldextract\\py.typed',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\tldextract\\py.typed',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\sboms\\cryptography-rust.cyclonedx.json',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\sboms\\cryptography-rust.cyclonedx.json',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\METADATA',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\licenses\\LICENSE.BSD',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\licenses\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\WHEEL',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\licenses\\LICENSE',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\RECORD',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\sboms\\sbom.json',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\sboms\\sbom.json',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\INSTALLER',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-50.0.2.dist-info\\licenses\\LICENSE.APACHE',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\cryptography-50.0.2.dist-info\\licenses\\LICENSE.APACHE',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\top_level.txt',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\top_level.txt',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\INSTALLER',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\INSTALLER',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\RECORD',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\RECORD',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\METADATA',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\METADATA',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\WHEEL',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\WHEEL',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\licenses\\LICENSE',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('base_library.zip',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\build\\PDF Sourcing '
+   'Tool\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1791052792,
+ [('runw.exe',
+   'F:\\Amlan\\AICA Level 2\\Capstone '
+   'Project\\PDF_Sourcing_Tool_1.0.2\\PDF_Sourcing_Tool\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\caaml\\AppData\\Local\\Programs\\Python\\Python314\\python314.dll')

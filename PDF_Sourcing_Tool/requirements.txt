@@ -1,0 +1,12 @@
+# PDF Sourcing Tool - required packages (Python 3.10+)
+customtkinter==5.2.2
+requests==2.33.1
+urllib3==2.6.3
+beautifulsoup4==4.14.3
+lxml==6.0.2
+tldextract==5.1.3
+pdfplumber==0.11.9
+PyMuPDF==1.24.14
+openpyxl==3.1.5
+python-dateutil==2.9.0.post0
+Pillow==12.1.1

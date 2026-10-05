@@ -1,0 +1,2 @@
+OK PDF Sourcing Tool 1.0.2
+python 3.14.7 | tcl/tk 9.0.4 (embedded) | customtkinter 5.2.2 | built exe: True
